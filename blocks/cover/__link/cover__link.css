@@ -1,0 +1,33 @@
+.cover__link {
+    margin: 0;
+    padding: 0;    
+    width: 100%;    
+    background-image: url(../../../images/cover_background.jpg); 
+    background-repeat: no-repeat;    
+    background-size: cover;
+    background-position: center;          
+    text-decoration: none;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;        
+    color: #ffffff;    
+}
+
+.cover__link::before {
+    content: '';
+    display: block;    
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;    
+    background: #2A2C2F;
+    opacity: 0.3;
+    transition: 0.4s;
+    
+}
+
+.cover__link:hover::before {
+    opacity: 0.8;
+}

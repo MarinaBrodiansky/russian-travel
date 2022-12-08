@@ -1,0 +1,22 @@
+.lead {
+  margin: 43px 0 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+@media (min-width: 1024px) {
+  .lead {
+      margin: 48px 48px 0 48px;
+      
+  }
+}
+
+@media (min-width: 1280px) {
+  .lead {
+    margin: 56px 148px 0 148px;
+  }   
+}

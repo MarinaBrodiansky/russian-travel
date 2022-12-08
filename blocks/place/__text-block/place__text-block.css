@@ -1,0 +1,12 @@
+.place__text-block {
+    margin: 0;
+    padding: 0 16px 0 16px;
+    display: flex;
+    flex-direction: column;     
+}
+
+@media (min-width: 768px) {
+    .place__text-block {
+        padding: 0;
+    }
+}

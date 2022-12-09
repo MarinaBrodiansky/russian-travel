@@ -1,10 +1,10 @@
 .page {
-    font-family:'Inter', 'Arial', sans-serif;   
+    font-family:'Inter', 'Arial', sans-serif;
     margin: 0;
     padding:0;
     background-color: #2A2C2F;
-    color: #ffffff; 
+    color: #ffffff;
     /* width: 100%; */
     min-width: 320px;
-    max-width: 1280px;   
+    max-width: 1280px;
 }

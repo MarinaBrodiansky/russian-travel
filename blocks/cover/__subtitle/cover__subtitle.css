@@ -12,7 +12,7 @@
 
 @media (min-width: 768px) {
     .cover__subtitle {
-        /* padding: 32px 204px 115px 204px; */
+        padding: 32px 204px 115px 204px;
         font-size: 18px;
         line-height: 22px;
         max-width: 360px;
@@ -21,14 +21,14 @@
 
 @media (min-width: 1024px) {
     .cover__subtitle {        
-        /* padding: 32px 332px 195px 332px; */
+        padding: 32px 332px 195px 332px;
     }
 }
 
 @media (min-width: 1280px) {
     .cover__subtitle {
-        /* margin: 0; */
-        /* padding: 32px 412px 245px 412px; */
+        margin: 0;
+        padding: 32px 412px 245px 412px;
     }
 }
 

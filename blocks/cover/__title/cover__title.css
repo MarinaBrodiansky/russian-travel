@@ -12,7 +12,7 @@
 
 @media (min-width: 768px) {
     .cover__title {
-        /* padding: 115px 104px 0 104px; */
+        padding: 115px 104px 0 104px;
         font-size: 72px;
         line-height: 76px;
     }
@@ -20,13 +20,14 @@
 
 @media (min-width: 1024px) {
     .cover__title {
-        /* padding: 195px 232px 0 232px; */
+        padding: 195px 232px 0 232px;
         
     }
 }
 
 @media (min-width: 1280px) {
     .cover__title {
-        /* padding: 245px 312px 0 312px; */
+        margin: 0;
+        padding: 245px 312px 0 312px;
     }
 }

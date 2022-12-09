@@ -8,10 +8,10 @@
     background-position: center;          
     text-decoration: none;
     display: flex;
-    position: relative;
     flex-direction: column;
     justify-content: center;        
     color: #ffffff;    
+    aspect-ratio: 1/0.625;
 }
 
 .cover__link::before {

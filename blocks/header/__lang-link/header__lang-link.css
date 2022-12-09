@@ -5,9 +5,9 @@
     color: #ffffff;
     text-decoration: none;
     opacity: 1;
-    transition: 0.4s;
-    
+    transition: 0.4s;    
 }
+
 .header__lang-link:hover {
     opacity: 0.8;
 }

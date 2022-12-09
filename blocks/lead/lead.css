@@ -5,6 +5,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  aspect-ratio: 1/0.625;
   
 }
 

@@ -7,11 +7,12 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     align-self: flex-start;
+    max-width: 158px;
 }
 
 @media (min-width: 768px) {
     .lead__caption {
-        padding: 8px 586px 0 24px;
+        padding: 8px 586px 0 24px;        
     }
 }
 

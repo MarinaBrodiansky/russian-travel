@@ -8,14 +8,14 @@
 @media (min-width: 768px) {
     .cover {
         margin: 90px 0 0 0;
-        max-height: 480px;
+        /* max-height: 480px; */
     }
 }
 
 @media (min-width: 1024px) {
     .cover {
         margin: 92px 0 0 0;
-        max-height: 640px;
+        /* max-height: 640px; */
         
     }
 }

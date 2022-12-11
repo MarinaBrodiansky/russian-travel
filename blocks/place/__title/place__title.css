@@ -10,10 +10,12 @@
 @media (min-width: 768px) {
     .place__title {
         font-size: 42px;
-        line-height: 46px;
-        /* padding: 0; 404px 0 0; */
+        line-height: 46px;        
         max-width: 340px;
+        padding: 0 16px 0 0;
     }
+
+    
 }
 
 @media (min-width: 1024px) {

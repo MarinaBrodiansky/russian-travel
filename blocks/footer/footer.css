@@ -13,8 +13,9 @@
     }
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1024px) {
     .footer {
         margin: 92px 48px 24px 48px;
     }
 }
+

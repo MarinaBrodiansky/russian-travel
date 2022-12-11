@@ -9,3 +9,9 @@
         padding: 56px 0 0 0;
     }
 }
+
+@media (min-width: 1280px) {
+    .lead__image {
+        padding: 64px 0 0 0;
+    }
+}

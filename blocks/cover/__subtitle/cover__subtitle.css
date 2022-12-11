@@ -7,14 +7,13 @@
     text-align: center;
     color: #ffffff;
     z-index: 5;
-    position: relative;
+    /* position: relative; */
     max-width: 288px;
 }
 
 @media (min-width: 768px) {
     .cover__subtitle {
-        /* margin: 0 auto; */
-        padding-top: 32px;
+        padding: 32px 0 0 0;
         font-size: 18px;
         line-height: 22px;
         max-width: 360px;

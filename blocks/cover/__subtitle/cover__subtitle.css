@@ -7,7 +7,7 @@
     text-align: center;
     color: #ffffff;
     z-index: 5;
-    /* position: relative; */
+    position: relative;
     max-width: 288px;
 }
 
